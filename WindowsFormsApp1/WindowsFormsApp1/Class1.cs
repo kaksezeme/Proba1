@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Klasa2
+    class Class1
     {
-        public static string DohvatiNekiString()
-        {
-            return "Nekddddsdasdsdi strin33213213213i";
-        }
     }
 }
