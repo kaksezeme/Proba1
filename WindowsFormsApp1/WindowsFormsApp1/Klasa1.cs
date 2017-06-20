@@ -10,7 +10,7 @@ namespace WindowsFormsApp1
     {
         public static string DohvatiNekiString()
         {
-            return "Neki string1dfsdfsdfds";
+            return "Neki stri312312312312312312312312ng1dfsdfsdfds";
         }
     }
 }
